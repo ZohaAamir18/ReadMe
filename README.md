@@ -15,3 +15,5 @@ Dogs are often hailed as "man's best friend" for good reason. Their loyalty, int
 1. Emotional Support Animals
    
 3. Service Dogs and Their Training
+
+<img src="./image/image.jpg">
